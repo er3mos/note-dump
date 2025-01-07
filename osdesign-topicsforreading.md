@@ -1,4 +1,4 @@
-# Topics / starting points for research
+# startpoints-forreading
 
 ## 1. OS Kernel Architectures
     - Monolithic, Microkernel, and Hybrid designs
